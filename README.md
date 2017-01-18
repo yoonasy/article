@@ -1,2 +1,2 @@
 # article
-article-notebook
+article_img-notebook
