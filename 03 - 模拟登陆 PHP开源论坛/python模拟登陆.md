@@ -2,9 +2,9 @@
 登陆网页，我们要了解下http协议，这里简单介绍一下，以便后面进行模拟登陆。
 
 >http协议属于应用层的面向对象的协议
-主要功能是用来传输网页，所以传输网页有他特定的规则
-我们了解它的规则 实现多线程批量注册、投票、签到、发帖、
-都是可行的、网页除了Flash模块不能操作以外，其他Dom网页元素节点都可以操作。
+>主要功能是用来传输网页，所以传输网页有他特定的规则
+>我们了解它的规则 实现多线程批量注册、投票、签到、发帖、
+>都是可行的、网页除了Flash模块不能操作以外，其他Dom网页元素节点都可以操作。
 
 ---
 
@@ -144,7 +144,7 @@ f.close()	# 关闭f文件对象
 <a href="home.php?mod=space&amp;uid=3012208" target="_blank" title="访问我的空间">python666</a>
 ```
 > 看到尾部有个我登陆的账号名：python666
-![enter description here][1]
+> ![enter description here][1]
 
 
 ```html
@@ -153,9 +153,10 @@ f.close()	# 关闭f文件对象
 > 以及 积分：0  这些获取之后呢，我们可以写GUI界面来操控
 > 有兴趣的条友可以去研究下Tk
 
-需要研究Tk 和 继续了解http协议 或 有什么不懂的条友可以加下[QQ群:125980254](http://shang.qq.com/wpa/qunwpa?idkey=71d9e6a3b2b8bc10adbf6eed41ad7cdba02d048cb02bc3c9878d3485325f841e)
-![enter description here][2]
+需要研究Tk 和 继续了解http协议 或 有什么不懂的条友可以加下[QQ群:526929231](http://shang.qq.com/wpa/qunwpa?idkey=91644f71013b35aafb647cfb95b643ccea29a46d83acc00bebd7d0b1727f54e2)
 
 
-  [1]: ./images/1482585441469.jpg "1482585441469.jpg"
-  [2]: ./images/1482586205514.jpg "1482586205514.jpg"
+
+
+
+还有一些很好的技术文章尽情戳知了课堂官方QQ：2156600937

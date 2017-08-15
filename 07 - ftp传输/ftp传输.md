@@ -98,6 +98,10 @@ if __name__ == '__main__':
 
 想了解FTP对象更多信息，请参阅以下：
 
-[ python交流群：495155119![image](http://pub.idqqimg.com/wpa/images/group.png)](shang.qq.com/wpa/qunwpa?idkey=5ada30a069ad1dccb424a3b99400c4b6ac12e26b4413d79b7783ec441c8c527d)
+[ python交流群：526929231![image](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=91644f71013b35aafb647cfb95b643ccea29a46d83acc00bebd7d0b1727f54e2)
 
 
+
+
+
+还有一些很好的技术文章尽情戳知了课堂官方QQ：2156600937

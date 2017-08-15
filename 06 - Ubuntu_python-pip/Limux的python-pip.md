@@ -30,7 +30,6 @@ deb http://extras.ubuntu.com/ubuntu/ xenial main
 ### shadowsocks的源（翻墙服务搭建）
 deb http://shadowsocks.org/ubuntu trusty main
 deb http://shadowsocks.org/debian wheezy main
-
 ```
 
 
@@ -75,3 +74,6 @@ pip install scrapy
 
 当然除此之外还有很多，可以直接敲个pip就能出来帮助
 
+
+
+还有一些很好的技术文章尽情戳知了课堂官方QQ：2156600937

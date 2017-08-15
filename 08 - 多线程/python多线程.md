@@ -202,4 +202,7 @@ all Dat: Wed Feb 15 22:53:09 2017
 想学习更牛逼的多线程 或 多线程高级用法以及并发、协程  新技欢迎加入本群：
 
 
-[![image](http://pub.idqqimg.com/wpa/images/group.png) python交流群：495155119](shang.qq.com/wpa/qunwpa?idkey=5ada30a069ad1dccb424a3b99400c4b6ac12e26b4413d79b7783ec441c8c527d)本群是学习群【新手也可以加】 广告请绕道谢谢！
+[![image](http://pub.idqqimg.com/wpa/images/group.png) python交流群：526929231](http://shang.qq.com/wpa/qunwpa?idkey=91644f71013b35aafb647cfb95b643ccea29a46d83acc00bebd7d0b1727f54e2)本群是学习群【新手也可以加】 广告请绕道谢谢！
+
+
+还有一些很好的技术文章尽情戳知了课堂官方QQ：2156600937
